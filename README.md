@@ -52,6 +52,10 @@
 > [!WARNING]
 > Para tener cuidado
 
+> [!CAUTION]
+> Esto es peligroso
+
+
 ------
 Credit: [zillastar](https://github.com/zillastar)
 
