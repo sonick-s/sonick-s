@@ -40,16 +40,16 @@
   </div>
   </div>
 
-> .[!NOTE].
+> [!NOTE]
 > Para una nota especial
 
-> .[!TIP].
+> [!TIP]
 > Para un consejo
 
-> .[!IMPORTANT].
+> [!IMPORTANT]
 > Para una nota importante
 
-> .[!WARNING].
+> [!WARNING]
 > Para tener cuidado
 
 ------
