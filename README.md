@@ -40,6 +40,18 @@
   </div>
   </div>
 
+> .[!NOTE].
+> Para una nota especial
+
+> .[!TIP].
+> Para un consejo
+
+> .[!IMPORTANT].
+> Para una nota importante
+
+> .[!WARNING].
+> Para tener cuidado
+
 ------
 Credit: [zillastar](https://github.com/zillastar)
 
