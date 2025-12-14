@@ -1,8 +1,8 @@
-<p align = center ><img src="./static/titulo.webp"> </p>
+<p align = center ><img src="./static/titulo-negativo.png"> </p>
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Shimarin" src="./static/militar.png"/>
 
 <h2> / about me /</h2>
   
