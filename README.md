@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="./static/militar.png" style="border-radius: 5px;"/>
+<img align="right" width="400" alt="Shimarin" src="./static/militar.png" style="border-radius: 20px;"/>
 
 <h2> / about me /</h2>
   
