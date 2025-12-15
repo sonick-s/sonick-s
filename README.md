@@ -50,6 +50,8 @@
   
   </div>
 
+<h2> / Notas personales para documentacion /</h2>
+
 > [!NOTE]
 > Para una nota especial
 
