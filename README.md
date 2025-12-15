@@ -7,7 +7,7 @@
 <h2> / Sobre Mi /</h2>
   
 - ⭐ Soy desarrollador de software desde el 2023. 
-- Mi trabajo consiste en diseñar software y sistemas para automatizar tareas repetitivas en procesos empresariales, desarrollar plataformas o aplicaciones que facilitan el acceso de comunidades a productos o servicios, y mejora la atención a miles de personas mediante un enfoque en la experiencia del usuario y la escalabilidad, investigando necesidades reales a través de metodologías de estudio de campo como levantamiento de requerimientos, analisis de datos o estudios de problematicas.
+- Mi trabajo consiste en diseñar software y sistemas para automatizar tareas repetitivas en procesos de la empresa, desarrollar plataformas o aplicaciones que facilitan el acceso de comunidades a productos o servicios, y mejora la atención a miles de personas mediante un enfoque en la experiencia del usuario y la escalabilidad, investigando necesidades reales a través de metodologías de estudio de campo como levantamiento de requerimientos, analisis de datos o estudios de problematicas.
 - Entre mis proyectos se destacan:
 
 - **Sistema de vigilancia en Tiempo Real Alcon** (Comando conjunto de las Fuerzas Armadas)
